@@ -1,2 +1,2 @@
 # name
-<b>This is a new repositorium
+<b>This is a new repositorium</b>
